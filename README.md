@@ -1,4 +1,6 @@
-# Password Generator
+## Password Generator
+
+#### Video Demo: https://youtu.be/MFsZf535b5s?si=pJPZZhJ4rHqxjrM_
 
 ## Description
 This Python program generates random, creative passwords using a combination of **animals, locations, symbols, and numbers**. Each password is generated interactively when the user presses Enter. The program uses longer lists of animals and locations for more variety and supports almost all symbols typically allowed in passwords.
@@ -21,3 +23,4 @@ This Python program generates random, creative passwords using a combination of 
 3. Run the script:
    ```bash
    python password_generator.py
+
