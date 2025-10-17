@@ -1,6 +1,6 @@
 ## Password Generator
 
-#### Video Demo: https://youtu.be/MFsZf535b5s?si=pJPZZhJ4rHqxjrM_
+#### Video Demo: https://youtu.be/MFsZf535b5s?si=pJPZZhJ4rHqxjrM
 
 ## Requirements
 - Python 3
@@ -16,6 +16,7 @@ This Python program generates random, creative passwords using a combination of 
 - Combines all components to form a unique, strong password.
 - Interactive: generate passwords continuously by pressing Enter.
 - Fully customizable lists for animals, locations, and symbols.
+
 
 
 
